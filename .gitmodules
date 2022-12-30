@@ -1,12 +1,12 @@
-[submodule "handlers/smina"]
+[submodule "smina"]
 	path = handlers/smina
 	url = git@github.com:quantori/scip-smina.git
-[submodule "handlers/vina"]
+[submodule "vina"]
 	path = handlers/vina
 	url = git@github.com:quantori/scip-vina.git
-[submodule "handlers/qvina"]
+[submodule "vinaq"]
 	path = handlers/qvina
 	url = git@github.com:quantori/scip-qvina.git
-[submodule "handlers/rdock"]
+[submodule "rdock"]
 	path = handlers/rdock
 	url = git@github.com:quantori/scip-rdock.git
