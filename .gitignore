@@ -1,0 +1,16 @@
+venv
+cmake-build-*
+*.pdbqt
+*.txt
+__pycache__
+*.DS_Store
+*.dylib
+*.idea
+*.dll
+*.so
+*.pyc
+*.mol2
+*.pdb
+lib
+*CMakeFiles*
+*CMakeCache*

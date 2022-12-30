@@ -1,0 +1,5 @@
+recursive-include DockingInterface/C_Dynamic_Libs/Linux/arm64 *.so
+recursive-include DockingInterface/C_Dynamic_Libs/Linux/x86_64 *.so
+recursive-include DockingInterface/C_Dynamic_Libs/macOS/arm64 *.dylib
+recursive-include DockingInterface/C_Dynamic_Libs/macOS/x86_64 *.dylib
+recursive-include DockingInterface/C_Dynamic_Libs/win32/ *.dll
