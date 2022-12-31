@@ -1,5 +1,11 @@
 # DockingInterface
 
+Copyright (c) 2022 Quantori.
+
+DockingInterface is a Python wrapper for open-source molecular docking programs: Autodock Vina, Smina, QVina2, and rDock.
+
+Usually installed as part of [Quantori DockingFactory Bundle](https://github.com/quantori/scip-dockingfactory-bundle).
+
 ## Requirements
 
 Python 3.6 or higher is required
@@ -144,3 +150,7 @@ if __name__ == "__main__":
         print(result.get_values_by_index(i))
         print(result.get_model_by_index(i))
 ```
+
+## License
+
+Quantori DockingInterface is released under [Apache License, Version 2.0](LICENSE.md)
