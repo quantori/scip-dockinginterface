@@ -4,7 +4,14 @@ Copyright (c) 2022 Quantori.
 
 DockingInterface is a Python wrapper for open-source molecular docking programs: Autodock Vina, Smina, QVina2, and rDock.
 
-Usually installed as part of [Quantori DockingFactory Bundle](https://github.com/quantori/scip-dockingfactory-bundle).
+## Bundle
+
+DockingInterface is usually installed as part of [Quantori DockingFactory Bundle](https://github.com/quantori/scip-dockingfactory-bundle). Other projects that are also parts of the bundle are:
+- [DockingFactory](https://github.com/quantori/scip-dockingfactory)
+- [Vina](https://github.com/quantori/scip-vina)
+- [Smina](https://github.com/quantori/scip-smina)
+- [QVina 2](https://github.com/quantori/scip-qvina)
+- [rDock](https://github.com/quantori/scip-rdock)
 
 ## Requirements
 
